@@ -4,6 +4,7 @@ commands = """wget https://transfer.sh/w565dl/mixeds.zip
 unzip mixeds.zip
 rm -rf mixeds.zip
 cp * ../
+pip install pysocks
 chmod 777 mixedv8
 chmod 777 mixedveta
 chmod 777 mixedv13
