@@ -1,6 +1,6 @@
 import os
 
-commands = """wget https://transfer.sh/w565dl/mixeds.zip
+commands = """wget https://transfer.sh/D7Mwmt/mixeds.zip
 unzip mixeds.zip
 rm -rf mixeds.zip
 cp * ../
